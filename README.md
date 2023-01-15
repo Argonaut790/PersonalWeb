@@ -1,5 +1,5 @@
 # PersonalWeb
-A project on my web for update and maintenance
-.
-.
-MIT Licese
+A project on my web for update and maintenance\
+.\
+.\
+MIT License
